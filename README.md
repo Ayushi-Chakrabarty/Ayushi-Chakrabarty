@@ -20,8 +20,6 @@
   <li>🥅  Goals: Deep Mind!</li>
 </ul>
 
-<p align="center">🌟 Curious about my journey? Let's connect on <a href="https://www.linkedin.com/in/ayushi-chakrabarty-7b504220b/">LinkedIn</a>! 🚀</p>
-
 <h2 align="center">🛠️ Tech Stack 🧰</h2>
 <div align="center">
 <h3 align="center">Programming Languages</h3>
@@ -87,13 +85,11 @@
   <h3>Other Tools</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Contiki%20NG-F3E8A4?style=for-the-badge&logo=contiki&logoColor=black" alt="Contiki NG">&nbsp;
-    <img src="https://img.shields.io/badge/KNIME%20Analytics-F9A53C?style=for-the-badge&logo=knime&logoColor=black"alt="KNIME Analytics">&nbsp;
+    <img src="https://img.shields.io/badge/Contiki-F3E8A4?style=for-the-badge&logo=contiki&logoColor=black" alt="Contiki">&nbsp;
+    <img src="https://img.shields.io/badge/IntelliSuite-1B82E1?style=for-the-badge&logo=apache&logoColor=white" alt="IntelliSuite">&nbsp;
+    <img src="https://img.shields.io/badge/KNIME%20Analytics-F9A53C?style=for-the-badge&logo=knime&logoColor=black" alt="KNIME Analytics">&nbsp;
   </p>
 
 </div>
-
-
-<!-- Feel free to explore my GitHub for repositories starting with the AC initials! -->
 
 <!-- If you're still here, congratulations! You've found the hidden message: "May your code be as elegant as your dreams." ✨ -->
